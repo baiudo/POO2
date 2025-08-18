@@ -14,7 +14,7 @@ internal class Program
         FaixaIdade.Add('A', new List<int>());
         FaixaIdade.Add('B', new List<int>());
         FaixaIdade.Add('C', new List<int>());
-        FaixaIdade.Add('C', new List<int>());
+        FaixaIdade.Add('D', new List<int>());
         FaixaIdade.Add('E', new List<int>());
         while (true)
         {
